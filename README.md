@@ -3,6 +3,7 @@
 #### A QA chat room for support. You make question and get response from the community.
 =======
 
+### About
 
 This App was created during the week of the Next Level Week event realesed by Rocketseat. And, of course, this app is not complete yet.
 This project developped using the realtime database and authetication from firebase.
